@@ -1,0 +1,25 @@
+
+.login-box{
+
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+    top: 50px;
+    left: 10px;
+	left: calc(36% - 45px);
+}
+.lef{
+    width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+    top: 50px;
+    left: 10px;
+	left: calc(45% - 45px);
+}
+.righ{
+  
+    background-position: right;
+    position: absolute;
+}
